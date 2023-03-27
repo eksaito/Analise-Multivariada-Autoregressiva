@@ -6,6 +6,10 @@ Identificação de sistemas
 
 Estudo sobre identificação de sistemas
 
+Ferramentas Utilizadas:
+- Matlab
+- Python (numpy, scipy, statsmodels)
+
 ## Tópicos:
 1. Modelagem AR / MA
 - Partial Autocorrelation
