@@ -2,8 +2,6 @@
 
 Autor: Eric Kauati Saito
 
-Disciplina: COB862
-
 Identificação de sistemas
 
 Estudo sobre identificação de sistemas
